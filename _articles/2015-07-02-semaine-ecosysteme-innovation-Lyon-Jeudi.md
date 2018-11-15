@@ -16,7 +16,7 @@ author: xavier
 share: true
 ---
 
-_Vous êtes presque au milieu d'un reportage sur la première semaine de juin à Lyon dans l'écosystème d'innovation. Vous pouvez rattraper les premiers épisodes : [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/), [lundi](/articles/semaine-ecosysteme-innovation-Lyon-Lundi/), [mardi](/articles/semaine-ecosysteme-innovation-Lyon-mardi/) et [mercredi](/articles/semaine-ecosysteme-innovation-Lyon-Mercredi/)_
+_Vous êtes presque au milieu d'un reportage sur la première semaine de juin à Lyon dans l'écosystème d'innovation. Vous pouvez rattraper les premiers épisodes : [dimanche](/_articles/semaine-dans-ecosysteme-innovation-Lyon/), [lundi](/_articles/semaine-ecosysteme-innovation-Lyon-Lundi/), [mardi](/_articles/semaine-ecosysteme-innovation-Lyon-mardi/) et [mercredi](/_articles/semaine-ecosysteme-innovation-Lyon-Mercredi/)_
 
 ## L'Open Coffee & Brioches
 

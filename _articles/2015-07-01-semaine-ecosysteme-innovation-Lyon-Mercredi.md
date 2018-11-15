@@ -15,7 +15,7 @@ author: xavier
 share: true
 ---
 
-_Vous êtes en plein milieu d'un mini reportage sur la première semaine de juin à Lyon dans l'écosystème d'innovation. Vous pouvez rattraper les premiers épisodes : [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/), [lundi](/articles/semaine-ecosysteme-innovation-Lyon-Lundi/) et [mardi](/articles/semaine-ecosysteme-innovation-Lyon-mardi/)_ 
+_Vous êtes en plein milieu d'un mini reportage sur la première semaine de juin à Lyon dans l'écosystème d'innovation. Vous pouvez rattraper les premiers épisodes : [dimanche](/_articles/semaine-dans-ecosysteme-innovation-Lyon/), [lundi](/_articles/semaine-ecosysteme-innovation-Lyon-Lundi/) et [mardi](/_articles/semaine-ecosysteme-innovation-Lyon-mardi/)_ 
 
 ## Les trublions du web 
 

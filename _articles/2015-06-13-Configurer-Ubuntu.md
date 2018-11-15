@@ -100,5 +100,5 @@ Pour Dropbox, il faut ajouter l'aire de notification à un des tableaux de bord
 
 [Plus d'infos](http://www.binarytides.com/install-gnome-flashback-ubuntu/)
 
-Pour aller plus loin, [Les raccourcis sous Ubuntu](/articles/raccourcis-sous-ubuntu)
+Pour aller plus loin, [Les raccourcis sous Ubuntu](/_articles/raccourcis-sous-ubuntu)
 

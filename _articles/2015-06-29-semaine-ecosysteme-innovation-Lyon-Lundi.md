@@ -15,7 +15,7 @@ author: xavier
 share: true
 ---
 
-Après un [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/) pas de tout repos, poursuivons notre exploration de l'écosystème d'innovation de Lyon avec un lundi.  
+Après un [dimanche](/_articles/semaine-dans-ecosysteme-innovation-Lyon/) pas de tout repos, poursuivons notre exploration de l'écosystème d'innovation de Lyon avec un lundi.  
 
 ![L'impropitch]({{ site.url }}/images/impropitch.jpg){: .pull-right}
 
