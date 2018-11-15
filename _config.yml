@@ -2,9 +2,6 @@
 title: Site Leaf Test
 timezone: UTC
 collections:
-  header:
-    title: Header
-    output: true
   posts:
     title: Posts
     output: true
