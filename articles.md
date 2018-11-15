@@ -7,7 +7,7 @@ layout: page
 
 <section class="section">
   <div class="container">
-    {% for post in paginator.posts %}
+    {% for post in paginator.articles %}
       <article class="media">
         <div class="media-content">
           <h1 class="title">

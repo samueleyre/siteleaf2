@@ -42,7 +42,7 @@ navigation:
   twitter: samuel
   facebook: samuel
   google: '113457032081840420000'
-paginate: 5
+paginate: 1
 excerpt_separator: "<!--more-->"
 date_format: "%B %d, %Y"
 sass:
