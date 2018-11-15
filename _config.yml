@@ -45,5 +45,7 @@ date_format: "%B %d, %Y"
 sass:
   style: compressed
 header:
-  about: "/about"
-  ressource: "/ressource"
+- name: about
+  url: "/about"
+- name: ressource
+  url: "/ressource"
