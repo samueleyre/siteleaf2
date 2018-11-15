@@ -24,9 +24,9 @@
   </nav>
   <div class="navbar-menu" id="navMenu">
     <div class="navbar-start">
-      {% for nav in header %}
+      {% for nav in site.header %}
       <a class="navbar-item {% if page.url == nav.url %}is-active{% endif %}" href="{{ site.baseurl }}{{nav.url}}">{{nav.name}}</a>
-      {% endfor %}}
+      {% endfor %}
     </div>
     <div class="navbar-end">
       {% if site.navigation.github %}

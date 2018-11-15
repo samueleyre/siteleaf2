@@ -47,5 +47,5 @@ sass:
 header:
 - name: about
   url: "/about"
-- name: ressource
-  url: "/ressource"
+- name: ressources
+  url: "/ressources"
