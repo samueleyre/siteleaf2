@@ -5,6 +5,9 @@ collections:
   articles:
     title: Articles
     output: true
+  people:
+    title: People
+    output: true
   posts:
     title: Posts
     output: true
@@ -52,3 +55,5 @@ header:
   url: "/about"
 - name: ressources
   url: "/ressources"
+- name: articles
+  url: "/articles"
