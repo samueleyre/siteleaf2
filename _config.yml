@@ -1,7 +1,6 @@
 ---
 title: Site Leaf Test
 timezone: UTC
-lang: fr
 collections:
   posts:
     title: Posts
@@ -9,7 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: "samuel"
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    is_post: true
+lang: fr
+name: samuel
 email: your-email@example.com
 description: Un test pour un site web perso sur site leaf
 baseurl: 
@@ -21,34 +28,19 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 theme: jekyll-bulma-theme
-
 plugins:
 - jekyll-feed
 - jekyll-paginate
-
-
 version:
-  bulma: 0.6.2 # This depend on "cdnjs.com"
-  font-awesome: 5.0.9 # This depend on "use.fontawesome.com", also name version it without "v" prefix.
-
+  bulma: 0.6.2
+  font-awesome: 5.0.9
 navigation:
   github: samuel
   twitter: samuel
   facebook: samuel
-  google: 113457032081840418568
-
+  google: '113457032081840418568'
 paginate: 5
-excerpt_separator: <!--more-->
-date_format: '%B %d, %Y' # See http://alanwsmith.com/jekyll-liquid-date-formatting-examples to more info
-
+excerpt_separator: "<!--more-->"
+date_format: "%B %d, %Y"
 sass:
   style: compressed
-
-defaults:
-  -
-    scope:
-      path: _posts
-      type: posts
-    values:
-      layout: post
-      is_post: true

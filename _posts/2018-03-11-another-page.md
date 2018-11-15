@@ -1,6 +1,6 @@
 ---
 title: Another page
-date:  2018-03-12 00:00:00 +0700
+date: 2018-03-11 17:00:00 Z
 ---
 
 Similique voluptate autem fugit nisi fugiat suscipit quaerat ipsum. Dicta assumenda aperiam est et explicabo iure beatae illo autem. Modi voluptatibus debitis iusto. Quo quis quo fuga a sit ipsum sint. Exercitationem quos ut. Et magnam quo aperiam vel.

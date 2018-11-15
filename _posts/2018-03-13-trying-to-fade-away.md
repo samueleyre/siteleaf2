@@ -1,6 +1,6 @@
 ---
-title: "Trying to fade away :("
-date: 2018-03-13 16:16:01 +0700
+title: Trying to fade away :(
+date: 2018-03-13 09:16:01 Z
 ---
 
 Et pariatur nisi dolores eaque voluptas dolor.

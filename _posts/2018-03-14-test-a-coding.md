@@ -1,6 +1,6 @@
 ---
-title: "Test a Coding"
-date: 2018-03-14 16:16:01 +0700
+title: Test a Coding
+date: 2018-03-14 09:16:01 Z
 ---
 
 ```ruby
