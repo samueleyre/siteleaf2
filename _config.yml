@@ -38,9 +38,12 @@ navigation:
   github: samuel
   twitter: samuel
   facebook: samuel
-  google: '113457032081840418568'
+  google: '113457032081840420000'
 paginate: 5
 excerpt_separator: "<!--more-->"
 date_format: "%B %d, %Y"
 sass:
   style: compressed
+header:
+  about: "/about"
+  ressource: "/ressource"
