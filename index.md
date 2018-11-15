@@ -3,7 +3,7 @@ title: Page home
 layout: home
 ---
 
-Bienvenu sur la page Principale !
+# Bienvenu sur la page Principale !
 
 * blabla
 
