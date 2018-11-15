@@ -15,6 +15,7 @@ author:
 share: true
 thumbnail: images/return.jpg
 ---
+
 Ces dernières semaines ont été un marathon d'événements des bricodeurs. L'occasion de saisir les enjeux des métiers numérique aujourd'hui, du rôle de l'Etat, et de notre association dans leur développement. Voici quelques notes tirées de ces conversations.
 
 ## Vers un retour du développeur ?

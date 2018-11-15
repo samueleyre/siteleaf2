@@ -4,7 +4,6 @@ permalink: "/articles/"
 layout: page
 ---
 
-
 <section class="section">
   <div class="container">
     {% for post in paginator.articles %}
